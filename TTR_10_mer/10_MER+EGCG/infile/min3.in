@@ -1,0 +1,9 @@
+Initial minimization position, 10.0 cut
+ &cntrl
+  irest = 0, ntpr = 500,
+  imin = 1, maxcyc = 10000, ncyc = 5000, ntmin = 1,
+  dx0 = 0.1, drms = 0.0001,
+  ntf = 1, ntb = 1, cut = 10.0, nsnb = 10, iwrap=1,
+  ntc = 1,
+ /
+
